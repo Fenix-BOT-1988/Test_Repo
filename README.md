@@ -1,9 +1,6 @@
 # Test_Repo
 new text
-<<<<<<< HEAD
-
 Some more Text
-
 fix2 changes
 =======
 new text 2
